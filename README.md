@@ -1,2 +1,2 @@
 # hello-world
-Practice Tutorial
+Practice Tutorial around GitHub. This is my first Github work
